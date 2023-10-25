@@ -1,7 +1,4 @@
 # Bike-Sharing-Demand
-I wrote a detailed blog on my approach to this problem on medium, I would recommend you to read it for better understanding of the problem:
-
-
 ## Objective:
 
 Source: https://www.kaggle.com/competitions/bike-sharing-demand
